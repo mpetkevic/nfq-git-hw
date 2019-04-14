@@ -6,4 +6,6 @@ This git has 3 branches:
 * Feature1 branch
 * debug branch
 
+Feature1 merged with debug.
+
 Made by MP.
