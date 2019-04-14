@@ -7,5 +7,6 @@ This git has 3 branches:
 * debug branch
 
 Feature1 merged with debug.
+debug merged with master.
 
 Made by MP.
